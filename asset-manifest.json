@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-07-taskManager/static/css/main.aaaf48ca.css",
+    "main.js": "/goit-react-hw-07-taskManager/static/js/main.6b9d7a3e.js",
+    "index.html": "/goit-react-hw-07-taskManager/index.html",
+    "main.aaaf48ca.css.map": "/goit-react-hw-07-taskManager/static/css/main.aaaf48ca.css.map",
+    "main.6b9d7a3e.js.map": "/goit-react-hw-07-taskManager/static/js/main.6b9d7a3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.6b9d7a3e.js"
+  ]
+}
